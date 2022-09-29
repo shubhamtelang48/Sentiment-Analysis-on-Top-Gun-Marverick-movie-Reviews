@@ -4,3 +4,4 @@ NLTK
 sklearn
 textblob
 worldcloud
+Beautifulsoup
