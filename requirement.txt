@@ -2,3 +2,5 @@ pandas
 numpy
 NLTK
 sklearn
+textblob
+worldcloud
