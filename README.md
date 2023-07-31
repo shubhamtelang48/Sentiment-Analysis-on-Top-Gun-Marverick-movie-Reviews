@@ -3,7 +3,7 @@ In this project firstly we analysis the past reviews and predict the sentiment o
 
 # Introduction-
 
-- It is a Natural Language Processing Problem where Sentiment Analysis is done by Classifying the Positive tweets from negative tweets by machine learning models for classification, text mining, text analysis, data analysis and data visualization.
+- It is a Natural Language Processing Problem where Sentiment Analysis is done by Classifying the Positive tweets and negative tweets by using machine learning models. 
 - Natural Language Processing (NLP) is a hotbed of research in data science these days and one of the most common applications of NLP is sentiment analysis. From opinion polls to creating entire marketing strategies, this domain has completely reshaped the way businesses work, which is why this is an area every data scientist must be familiar with.
 - We will do so by following a sequence of steps needed to solve a general sentiment analysis problem. We will start with preprocessing and cleaning of the raw text of the reviews. Then we will explore the cleaned text and try to get some intuition about the context of the reviews. After that, we will extract numerical features from the data and finally use these feature sets to train models and identify the sentiments of the reviews.
 
